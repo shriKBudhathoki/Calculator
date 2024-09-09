@@ -1,0 +1,11 @@
+{
+"manifest_version": 3,
+"version": "2.1.3",
+"name": "Calculator",
+"action": {
+"default_popup": "Calculator.html", "default_icon": "d.png"},
+"permissions": [
+"tabs"
+
+]
+}
